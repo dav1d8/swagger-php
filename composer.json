@@ -29,8 +29,7 @@
     "autoload": {
         "psr-4": {
             "Swagger\\": "src"
-        },
-        "files": ["src/functions.php"]
+        }
     },
     "require-dev": {
         "squizlabs/php_codesniffer": ">=2.7",
